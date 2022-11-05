@@ -1,0 +1,54 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia alunos[3][3]
+
+		escreva("Informe o nome do 1º aluno: \t")
+		leia(alunos[0][0])limpa()
+		escreva("Informe o email do 1º aluno: \t")
+		leia(alunos[1][0])limpa()
+		escreva("Informe o série do 1º aluno: \t")
+		leia(alunos[2][0])limpa()
+		//
+		escreva("Informe o nome do 2º aluno: \t")
+		leia(alunos[0][1])limpa()
+		escreva("Informe o email do 2º aluno: \t")
+		leia(alunos[1][1])limpa()
+		escreva("Informe o série do 2º aluno: \t")
+		leia(alunos[2][1])limpa()
+		//
+		escreva("Informe o nome do 3º aluno: \t")
+		leia(alunos[0][2])limpa()
+		escreva("Informe o email do 3º aluno: \t")
+		leia(alunos[1][2])limpa()
+		escreva("Informe o série do 3º aluno: \t")
+		leia(alunos[2][2])limpa()
+
+		escreva("\nNome do 1º aluno:  ",alunos[0][0])
+		escreva("\nEmail do 1º aluno: ",alunos[1][0])
+		escreva("\nSérie do 1º aluno: ",alunos[2][0])
+		escreva("\n")
+		//
+		escreva("\nNome do 2º aluno:  ",alunos[0][1])
+		escreva("\nEmail do 2º aluno: ",alunos[1][1])
+		escreva("\nSérie do 2º aluno: ",alunos[2][1])
+		escreva("\n")
+		//
+		escreva("\nNome do 3º aluno:  ",alunos[0][2])
+		escreva("\nEmail do 3º aluno: ",alunos[1][2])
+		escreva("\nSérie do 3º aluno: ",alunos[2][2])
+		
+	}
+}
+- 👋 Hi, I’m @jamersonlima79
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+jamersonlima79/jamersonlima79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
